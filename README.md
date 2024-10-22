@@ -1,2 +1,2 @@
 # PYTHON PROJECTS
- python projects - data science
+Project Data Science
